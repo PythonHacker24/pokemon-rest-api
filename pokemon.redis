@@ -1,0 +1,43 @@
+set pokemon:water:squirtle '{"name":"Squirtle","type":"water","xp":120,"power":"Water Gun","level":5}'
+set pokemon:water:psyduck '{"name":"Psyduck","type":"water","xp":180,"power":"Confusion","level":7}'
+set pokemon:water:gyarados '{"name":"Gyarados","type":"water","xp":1000,"power":"Hydro Pump","level":35}'
+set pokemon:water:vaporeon '{"name":"Vaporeon","type":"water","xp":900,"power":"Aqua Ring","level":30}'
+set pokemon:water:totodile '{"name":"Totodile","type":"water","xp":140,"power":"Bite","level":8}'
+
+set pokemon:fire:charmander '{"name":"Charmander","type":"fire","xp":150,"power":"Flame Burst","level":7}'
+set pokemon:fire:magmar '{"name":"Magmar","type":"fire","xp":800,"power":"Fire Blast","level":29}'
+set pokemon:fire:arcanine '{"name":"Arcanine","type":"fire","xp":950,"power":"Flare Blitz","level":35}'
+set pokemon:fire:cyndaquil '{"name":"Cyndaquil","type":"fire","xp":180,"power":"Ember","level":9}'
+set pokemon:fire:rapidash '{"name":"Rapidash","type":"fire","xp":1200,"power":"Inferno","level":40}'
+
+set pokemon:grass:bulbasaur '{"name":"Bulbasaur","type":"grass","xp":130,"power":"Vine Whip","level":6}'
+set pokemon:grass:chikorita '{"name":"Chikorita","type":"grass","xp":160,"power":"Razor Leaf","level":10}'
+set pokemon:grass:leafeon '{"name":"Leafeon","type":"grass","xp":920,"power":"Leaf Blade","level":28}'
+set pokemon:grass:venusaur '{"name":"Venusaur","type":"grass","xp":2000,"power":"Solar Beam","level":50}'
+
+set pokemon:electric:pikachu '{"name":"Pikachu","type":"electric","xp":200,"power":"Thunder Shock","level":10}'
+set pokemon:electric:raichu '{"name":"Raichu","type":"electric","xp":600,"power":"Thunder Punch","level":22}'
+set pokemon:electric:jolteon '{"name":"Jolteon","type":"electric","xp":900,"power":"Discharge","level":30}'
+set pokemon:electric:luxray '{"name":"Luxray","type":"electric","xp":1100,"power":"Wild Charge","level":38}'
+
+set pokemon:psychic:alakazam '{"name":"Alakazam","type":"psychic","xp":2200,"power":"Psybeam","level":48}'
+set pokemon:psychic:espeon '{"name":"Espeon","type":"psychic","xp":950,"power":"Psychic","level":28}'
+set pokemon:psychic:mewtwo '{"name":"Mewtwo","type":"psychic","xp":6000,"power":"Psystrike","level":70}'
+
+set pokemon:ice:articuno '{"name":"Articuno","type":"ice","xp":5000,"power":"Blizzard","level":70}'
+set pokemon:ice:lapras '{"name":"Lapras","type":"ice","xp":3000,"power":"Ice Beam","level":50}'
+set pokemon:ice:glaceon '{"name":"Glaceon","type":"ice","xp":800,"power":"Icy Wind","level":28}'
+
+set pokemon:rock:geodude '{"name":"Geodude","type":"rock","xp":300,"power":"Rock Throw","level":12}'
+set pokemon:rock:onix '{"name":"Onix","type":"rock","xp":700,"power":"Stone Edge","level":25}'
+set pokemon:rock:tyranitar '{"name":"Tyranitar","type":"rock","xp":4000,"power":"Crunch","level":55}'
+
+set pokemon:dragon:dratini '{"name":"Dratini","type":"dragon","xp":400,"power":"Dragon Breath","level":15}'
+set pokemon:dragon:dragonair '{"name":"Dragonair","type":"dragon","xp":1500,"power":"Dragon Pulse","level":40}'
+set pokemon:dragon:dragonite '{"name":"Dragonite","type":"dragon","xp":5000,"power":"Outrage","level":60}'
+
+set pokemon:dark:umbreon '{"name":"Umbreon","type":"dark","xp":950,"power":"Foul Play","level":30}'
+set pokemon:dark:absol '{"name":"Absol","type":"dark","xp":1200,"power":"Night Slash","level":36}'
+
+set pokemon:fighting:machamp '{"name":"Machamp","type":"fighting","xp":2500,"power":"Dynamic Punch","level":50}'
+set pokemon:fighting:lucario '{"name":"Lucario","type":"fighting","xp":3000,"power":"Aura Sphere","level":48}'

@@ -28,7 +28,7 @@ type Pokemon struct {
     Type  string `json: "type"`
     XP    int    `json: "xp"`
     Power string `json: "power"`
-    Level int `josn: "level"`
+    Level int    `json: "level"`
 }
 
 func getPokemonByType(pokemonType string) ([]Pokemon, error)  {
